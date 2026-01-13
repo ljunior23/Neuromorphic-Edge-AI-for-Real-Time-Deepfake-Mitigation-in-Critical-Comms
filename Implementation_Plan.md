@@ -1,7 +1,7 @@
 # 6-Month Implementation Plan  
 **Edge-Deployable Neuromorphic Multi-Agent Deepfake Mitigation System**  
 **Period**: February – July 2026 (Weeks 1–26)  
-**Goal**: Reach a working prototype in Lava simulation, port to Loihi 2 cloud, produce preliminary results, submit at least one conference preprint/paper, and create strong NIW evidence package.
+**Goal**: Reach a working prototype in Lava simulation, port to Loihi 2 cloud, produce preliminary results, submit at least one conference preprint/paper package.
 
 ## Phase Structure Overview
 
@@ -106,12 +106,11 @@ Phase 5 – Documentation, Publication & Demo (Weeks 25–26)
 - Prepare figures (architecture, benchmarks, demo screenshots)  
 **Deliverables**: Paper draft, arXiv preprint ready
 
-**Week 26** – Final Demo, Portfolio & NIW Evidence  
-- Record 5–10 min demo video (live detection + mitigation)  
+**Week 26** – Final Demo, Portfolio 
+- A recording of 5–10 min demo video (live detection + mitigation)  
 - Create portfolio page (React architecture map + code + results)  
-- Compile NIW evidence: paper, benchmarks, code repo, demo video  
 - Retrospective & buffer for last-minute fixes  
-**Deliverables**: Public demo video, polished portfolio, NIW evidence folder
+**Deliverables**: Public demo video, polished portfolio
 
 
 
